@@ -1,5 +1,4 @@
 name: ci-node-sonarcloud
-
 on:
   pull_request:
     branches: [ develop ]
